@@ -1,0 +1,28 @@
+{
+  "name": "hw_14_burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    "dev": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFernandez6/HW_14_Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFernandez6/HW_14_Burger/issues"
+  },
+  "homepage": "https://github.com/MFernandez6/HW_14_Burger#readme"
+}
